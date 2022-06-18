@@ -1,4 +1,4 @@
 # java-puzzlers
 The source code from Java Puzzlers
 
-![java_puzzlers](https://user-images.githubusercontent.com/48748376/174443037-8bec380c-5c15-4f5f-be56-4678e3d31822.jpg)
+![x9788968481444](https://user-images.githubusercontent.com/48748376/174443071-9fd8f286-3680-46ff-8ebd-26cbf371b838.jpeg)
