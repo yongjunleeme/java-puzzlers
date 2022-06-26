@@ -1,4 +1,4 @@
-package chap03_chracter.Puzzle16;
+package Ch03_Puzzlers_with_Character.Puzzle16;
 
 public class LinePrinter {
 

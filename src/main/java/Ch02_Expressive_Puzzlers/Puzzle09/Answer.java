@@ -1,4 +1,4 @@
-package Chap02_Expressive_Puzzlers.Puzzle09;
+package Ch02_Expressive_Puzzlers.Puzzle09;
 
 public class Answer {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package chap03_chracter.Puzzle19;
+package Ch03_Puzzlers_with_Character.Puzzle19;
 
 public class Classifier {
     public static void main(String[] args) {

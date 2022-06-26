@@ -1,4 +1,4 @@
-package chap03_chracter.Puzzle18;
+package Ch03_Puzzlers_with_Character.Puzzle18;
 
 public class StringCheese {
     public static void main(String[] args) {

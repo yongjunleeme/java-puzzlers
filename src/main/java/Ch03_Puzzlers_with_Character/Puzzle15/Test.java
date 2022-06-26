@@ -1,4 +1,4 @@
-package chap03_chracter.Puzzle15;
+package Ch03_Puzzlers_with_Character.Puzzle15;
 
 public class Test {
 

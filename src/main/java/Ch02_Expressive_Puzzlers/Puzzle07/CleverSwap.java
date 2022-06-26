@@ -1,4 +1,4 @@
-package Chap02_Expressive_Puzzlers.Puzzle07;
+package Ch02_Expressive_Puzzlers.Puzzle07;
 
 public class CleverSwap {
     public static void main(String[] args) {

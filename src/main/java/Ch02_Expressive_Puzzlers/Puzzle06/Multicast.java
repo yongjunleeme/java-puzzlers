@@ -1,4 +1,4 @@
-package Chap02_Expressive_Puzzlers.Puzzle06;
+package Ch02_Expressive_Puzzlers.Puzzle06;
 
 public class Multicast {
     public static void main(String[] args) {

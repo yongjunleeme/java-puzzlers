@@ -1,4 +1,4 @@
-package Chap02_Expressive_Puzzlers.Puzzle10;
+package Ch02_Expressive_Puzzlers.Puzzle10;
 
 public class Tweedledee {
 

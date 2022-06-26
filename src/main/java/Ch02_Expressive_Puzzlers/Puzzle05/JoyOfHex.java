@@ -1,4 +1,4 @@
-package Chap02_Expressive_Puzzlers.Puzzle05;
+package Ch02_Expressive_Puzzlers.Puzzle05;
 
 public class JoyOfHex {
     public static void main(String[] args) {

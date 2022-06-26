@@ -1,4 +1,4 @@
-package chap03_chracter.Puzzle20;
+package Ch03_Puzzlers_with_Character.Puzzle20;
 
 import java.util.regex.Pattern;
 
